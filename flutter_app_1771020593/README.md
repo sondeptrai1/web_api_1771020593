@@ -1,7 +1,7 @@
 # Restaurant App - Flutter Client
 
-**Sinh Viên**: Nguyễn Thị Thành Nhã  
-**Mã Sinh Viên**: 1771020519
+**Sinh Viên**: Nguyễn Trung Sơn 
+**Mã Sinh Viên**: 1771020593
 
 ## Mô Tả
 
